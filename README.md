@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Daniel Siqueira Pacheco
+**Matrícula:** 20241100129
 ---
 
 ## 🎯 Objetivo
@@ -46,8 +46,8 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
+> Eu percebi que todos os exercícios seguiam algum padrão; então, fui achando os padrões e os adaptando para cada imagem.
 > 
-
 ## 4. Desafio:
 **A)** Escreva aqui...
   
