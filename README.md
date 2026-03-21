@@ -46,7 +46,7 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> 
 
 ## 4. Desafio:
 **A)** Escreva aqui...
