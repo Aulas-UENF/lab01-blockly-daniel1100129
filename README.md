@@ -54,7 +54,7 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 **B)** É Preciso girar 90 à esquerda.
   
 **C)**  
-A- Como a soma dos ângulos externos de um polígono é sempre 360°, e um hexágono tem 6 lados, devemos dividir 360 por 6, o que resulta em 60°
+A- Como a soma dos ângulos externos de um polígono é sempre 360°, e um hexágono tem 6 lados, devemos dividir 360 por 6, o que resulta em 60°.
         
 B- Como precisamos criar um circulo, são 360 graus. e como são 4 hexágonos, temos uma repetição de 4 no loop principal, precisamos fazer 360/4 para achar a angulação.
 
